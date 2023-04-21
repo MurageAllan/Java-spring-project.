@@ -1,0 +1,6 @@
+org.springframework.r2dbc
+org.springframework.r2dbc.connection
+org.springframework.r2dbc.connection.init
+org.springframework.r2dbc.connection.lookup
+org.springframework.r2dbc.core
+org.springframework.r2dbc.core.binding
